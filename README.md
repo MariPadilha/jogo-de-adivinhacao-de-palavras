@@ -1,1 +1,3 @@
-# jogo-de-adivinhacao-de-palavras
+# jogo de adivinhação de palavras
+
+- 
